@@ -1,0 +1,51 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1493220384544,1042,Login to application,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group Login 1-1,,true,,376675,2549,1,1,0,77,0
+1493220385664,176,Create patient,200,OK,Thread Group Login 1-1,text,true,,377,1316,1,1,176,0,0
+1493220385841,277,Post Procedure,200,OK,Thread Group Login 1-1,text,true,,3208,1317,2,2,277,0,0
+1493220386119,211,Create patient,200,OK,Thread Group Login 1-1,text,true,,377,1316,2,2,211,0,0
+1493220386331,362,Post Procedure,200,OK,Thread Group Login 1-1,text,true,,3208,1317,2,2,361,0,0
+1493220386047,1356,Login to application,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group Login 1-2,,true,,376675,2549,1,1,0,7,0
+1493220387410,183,Create patient,200,OK,Thread Group Login 1-2,text,true,,377,1316,2,2,183,0,0
+1493220387594,327,Post Procedure,200,OK,Thread Group Login 1-2,text,true,,3208,1317,2,2,327,0,0
+1493220387922,243,Create patient,200,OK,Thread Group Login 1-2,text,true,,377,1316,2,2,243,0,0
+1493220388166,239,Post Procedure,200,OK,Thread Group Login 1-2,text,true,,3208,1317,2,2,239,0,1
+1493220387541,1076,Login to application,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group Login 1-3,,true,,376675,2549,1,1,0,6,0
+1493220388623,188,Create patient,200,OK,Thread Group Login 1-3,text,true,,377,1316,1,1,188,0,0
+1493220388812,258,Post Procedure,200,OK,Thread Group Login 1-3,text,true,,3208,1317,2,2,258,0,0
+1493220389071,198,Create patient,200,OK,Thread Group Login 1-3,text,true,,377,1316,2,2,198,0,0
+1493220389270,266,Post Procedure,200,OK,Thread Group Login 1-3,text,true,,3208,1317,2,2,266,0,0
+1493220389041,998,Login to application,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group Login 1-4,,true,,376675,2549,1,1,0,5,0
+1493220390044,187,Create patient,200,OK,Thread Group Login 1-4,text,true,,377,1316,1,1,187,0,0
+1493220390234,266,Post Procedure,200,OK,Thread Group Login 1-4,text,true,,3208,1317,1,1,266,0,0
+1493220390501,194,Create patient,200,OK,Thread Group Login 1-4,text,true,,377,1316,2,2,194,0,0
+1493220390696,329,Post Procedure,200,OK,Thread Group Login 1-4,text,true,,3208,1317,2,2,329,0,0
+1493220390542,996,Login to application,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group Login 1-5,,true,,376675,2549,1,1,0,6,0
+1493220391545,194,Create patient,200,OK,Thread Group Login 1-5,text,true,,377,1316,1,1,194,0,0
+1493220391740,259,Post Procedure,200,OK,Thread Group Login 1-5,text,true,,3208,1317,1,1,259,0,0
+1493220392000,195,Create patient,200,OK,Thread Group Login 1-5,text,true,,377,1316,2,2,195,0,0
+1493220392196,299,Post Procedure,200,OK,Thread Group Login 1-5,text,true,,3208,1317,2,2,299,0,0
+1493220392042,909,Login to application,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group Login 1-6,,true,,376675,2549,1,1,0,5,0
+1493220392957,184,Create patient,200,OK,Thread Group Login 1-6,text,true,,377,1316,1,1,184,0,0
+1493220393142,257,Post Procedure,200,OK,Thread Group Login 1-6,text,true,,3208,1317,1,1,257,0,0
+1493220393400,191,Create patient,200,OK,Thread Group Login 1-6,text,true,,377,1315,2,2,191,0,0
+1493220393592,267,Post Procedure,200,OK,Thread Group Login 1-6,text,true,,3206,1317,2,2,267,0,0
+1493220393542,1005,Login to application,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group Login 1-7,,true,,376732,2569,1,1,0,5,0
+1493220394554,186,Create patient,200,OK,Thread Group Login 1-7,text,true,,377,1316,1,1,186,0,0
+1493220394741,291,Post Procedure,200,OK,Thread Group Login 1-7,text,true,,3208,1317,1,1,291,0,0
+1493220395033,193,Create patient,200,OK,Thread Group Login 1-7,text,true,,377,1316,2,2,192,0,0
+1493220395226,307,Post Procedure,200,OK,Thread Group Login 1-7,text,true,,3208,1317,2,2,307,0,0
+1493220395047,969,Login to application,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group Login 1-8,,true,,376732,2569,1,1,0,6,0
+1493220396022,186,Create patient,200,OK,Thread Group Login 1-8,text,true,,377,1316,1,1,186,0,0
+1493220396209,302,Post Procedure,200,OK,Thread Group Login 1-8,text,true,,3208,1317,1,1,302,0,0
+1493220396511,209,Create patient,200,OK,Thread Group Login 1-8,text,true,,377,1316,2,2,209,0,0
+1493220396721,400,Post Procedure,200,OK,Thread Group Login 1-8,text,true,,3208,1317,2,2,400,0,0
+1493220396546,1021,Login to application,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group Login 1-9,,true,,376732,2569,1,1,0,5,0
+1493220397573,186,Create patient,200,OK,Thread Group Login 1-9,text,true,,377,1316,1,1,186,0,0
+1493220397760,263,Post Procedure,200,OK,Thread Group Login 1-9,text,true,,3208,1317,1,1,263,0,0
+1493220398024,211,Create patient,200,OK,Thread Group Login 1-9,text,true,,377,1316,2,2,211,0,0
+1493220398236,311,Post Procedure,200,OK,Thread Group Login 1-9,text,true,,3208,1317,2,2,311,0,0
+1493220398043,961,Login to application,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group Login 1-10,,true,,376732,2569,1,1,0,4,0
+1493220399009,194,Create patient,200,OK,Thread Group Login 1-10,text,true,,377,1316,1,1,194,0,0
+1493220399204,254,Post Procedure,200,OK,Thread Group Login 1-10,text,true,,3208,1317,1,1,254,0,0
+1493220399459,195,Create patient,200,OK,Thread Group Login 1-10,text,true,,377,1316,1,1,194,0,0
+1493220399653,269,Post Procedure,200,OK,Thread Group Login 1-10,text,true,,3208,1317,1,1,268,0,0

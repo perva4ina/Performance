@@ -1,0 +1,72 @@
+2017/07/09 13:28:58 INFO  - jmeter.util.JMeterUtils: Setting Locale to ru_RU 
+2017/07/09 13:28:59 ERROR - jmeter.util.JMeterUtils: Could not find resources for 'ru_RU' 
+2017/07/09 13:28:59 INFO  - jmeter.JMeter: Loading user properties from: C:\Performance repo\apache-jmeter-3.1\bin\user.properties 
+2017/07/09 13:28:59 INFO  - jmeter.JMeter: Loading system properties from: C:\Performance repo\apache-jmeter-3.1\bin\system.properties 
+2017/07/09 13:28:59 INFO  - jmeter.JMeter: Copyright (c) 1998-2016 The Apache Software Foundation 
+2017/07/09 13:28:59 INFO  - jmeter.JMeter: Version 3.1 r1770033 
+2017/07/09 13:28:59 INFO  - jmeter.JMeter: java.version=1.8.0_131 
+2017/07/09 13:28:59 INFO  - jmeter.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM 
+2017/07/09 13:28:59 INFO  - jmeter.JMeter: os.name=Windows 10 
+2017/07/09 13:28:59 INFO  - jmeter.JMeter: os.arch=amd64 
+2017/07/09 13:28:59 INFO  - jmeter.JMeter: os.version=10.0 
+2017/07/09 13:28:59 INFO  - jmeter.JMeter: file.encoding=Cp1251 
+2017/07/09 13:28:59 INFO  - jmeter.JMeter: Max memory     =523763712 
+2017/07/09 13:28:59 INFO  - jmeter.JMeter: Available Processors =8 
+2017/07/09 13:28:59 INFO  - jmeter.JMeter: Default Locale=русский (Россия) 
+2017/07/09 13:28:59 INFO  - jmeter.JMeter: JMeter  Locale=русский (Россия) 
+2017/07/09 13:28:59 INFO  - jmeter.JMeter: JMeterHome=C:\Performance repo\apache-jmeter-3.1 
+2017/07/09 13:28:59 INFO  - jmeter.JMeter: user.dir  =C:\Performance repo\apache-jmeter-3.1\bin 
+2017/07/09 13:28:59 INFO  - jmeter.JMeter: PWD       =C:\Performance repo\apache-jmeter-3.1\bin 
+2017/07/09 13:28:59 INFO  - jmeter.JMeter: IP: 192.168.0.103 Name: DESKTOP-BG077B6 FullName: DESKTOP-BG077B6 
+2017/07/09 13:28:59 INFO  - jmeter.gui.action.LookAndFeelCommand: Using look and feel: javax.swing.plaf.metal.MetalLookAndFeel [Metal, CrossPlatform] 
+2017/07/09 13:28:59 INFO  - jmeter.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties 
+2017/07/09 13:29:00 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must contain the string: '.functions.' 
+2017/07/09 13:29:00 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must not contain the string: '.gui.' 
+2017/07/09 13:29:02 INFO  - org.jmeterplugins.repository.PluginManager: Plugins Status: [jpgc-graphs-basic=2.0, jpgc-graphs-additional=2.0, jmeter-ftp=3.1, jmeter-http=3.1, jmeter-jdbc=3.1, jmeter-jms=3.1, jmeter-core=3.1, jmeter-junit=3.1, jmeter-java=3.1, jpgc-graphs-vs=2.0, jmeter-ldap=3.1, jmeter-mail=3.1, jmeter-mongodb=3.1, jmeter-native=3.1, jpgc-plugins-manager=0.11, jmeter-tcp=3.1, jmeter-components=3.1] 
+2017/07/09 13:29:03 INFO  - jmeter.gui.util.MenuFactory: Skipping org.apache.jmeter.assertions.BSFAssertion 
+2017/07/09 13:29:03 INFO  - jmeter.gui.util.MenuFactory: Skipping org.apache.jmeter.extractor.BSFPostProcessor 
+2017/07/09 13:29:03 INFO  - jmeter.gui.util.MenuFactory: Skipping org.apache.jmeter.modifiers.BSFPreProcessor 
+2017/07/09 13:29:03 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2017/07/09 13:29:03 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2017/07/09 13:29:03 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2017/07/09 13:29:03 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2017/07/09 13:29:03 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser 
+2017/07/09 13:29:03 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser 
+2017/07/09 13:29:03 INFO  - jorphan.exec.KeyToolUtils: keytool found at 'keytool' 
+2017/07/09 13:29:03 INFO  - jmeter.protocol.http.proxy.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file C:\Performance repo\apache-jmeter-3.1\bin\proxyserver.jks 
+2017/07/09 13:29:03 INFO  - jmeter.gui.util.MenuFactory: Skipping org.apache.jmeter.protocol.java.sampler.BSFSampler 
+2017/07/09 13:29:03 INFO  - jmeter.gui.util.MenuFactory: Skipping org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2017/07/09 13:29:03 INFO  - jmeter.gui.util.MenuFactory: Skipping org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2017/07/09 13:29:04 INFO  - jmeter.gui.util.MenuFactory: Skipping org.apache.jmeter.timers.BSFTimer 
+2017/07/09 13:29:04 INFO  - jmeter.gui.util.MenuFactory: Skipping org.apache.jmeter.visualizers.BSFListener 
+2017/07/09 13:29:04 INFO  - jmeter.gui.util.MenuFactory: Skipping org.apache.jmeter.visualizers.MonitorHealthVisualizer 
+2017/07/09 13:29:04 INFO  - jmeter.samplers.SampleResult: Note: Sample TimeStamps are START times 
+2017/07/09 13:29:04 INFO  - jmeter.samplers.SampleResult: sampleresult.default.encoding is set to ISO-8859-1 
+2017/07/09 13:29:04 INFO  - jmeter.samplers.SampleResult: sampleresult.useNanoTime=true 
+2017/07/09 13:29:04 INFO  - jmeter.samplers.SampleResult: sampleresult.nanoThreadSleep=5000 
+2017/07/09 13:29:06 INFO  - jmeter.gui.action.template.TemplateManager: Reading templates from:C:\Performance repo\apache-jmeter-3.1\bin\templates\templates.xml 
+2017/07/09 13:29:12 INFO  - jmeter.gui.action.Load: Loading file: C:\Performance repo\apache-jmeter-3.1\bin\templates\recording.jmx 
+2017/07/09 13:29:12 INFO  - jmeter.save.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2 
+2017/07/09 13:29:12 INFO  - jmeter.save.SaveService: Using SaveService properties file encoding UTF-8 
+2017/07/09 13:29:12 INFO  - jmeter.save.SaveService: Using SaveService properties version 3.1 
+2017/07/09 13:29:12 INFO  - jmeter.save.SaveService: All converter versions present and correct 
+2017/07/09 13:29:12 INFO  - jmeter.save.SaveService: Loading file: C:\Performance repo\apache-jmeter-3.1\bin\templates\recording.jmx 
+2017/07/09 13:29:12 INFO  - jmeter.protocol.http.control.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: true Prefix: COOKIE_ 
+2017/07/09 13:33:58 INFO  - jmeter.services.FileServer: Default base='C:\Performance repo\apache-jmeter-3.1\bin' 
+2017/07/09 13:33:58 INFO  - jmeter.gui.action.Load: Loading file: C:\Performance repo\SS presentation\create_patients.jmx 
+2017/07/09 13:33:58 INFO  - jmeter.services.FileServer: Set new base='C:\Performance repo\SS presentation' 
+2017/07/09 13:33:58 INFO  - jmeter.save.SaveService: Loading file: C:\Performance repo\SS presentation\create_patients.jmx 
+2017/07/09 13:33:58 INFO  - jmeter.protocol.http.control.CacheManager: Will only cache the following methods: [GET] 
+2017/07/09 13:33:58 INFO  - jmeter.services.FileServer: Set new base='C:\Performance repo\SS presentation' 
+2017/07/09 13:35:41 INFO  - jmeter.gui.action.Load: Loading file: C:\Performance repo\apache-jmeter-3.1\bin\templates\recording.jmx 
+2017/07/09 13:35:41 INFO  - jmeter.save.SaveService: Loading file: C:\Performance repo\apache-jmeter-3.1\bin\templates\recording.jmx 
+2017/07/09 13:36:46 INFO  - jmeter.protocol.http.proxy.ProxyControl: Creating Proxy CA in C:\Performance repo\apache-jmeter-3.1\bin\proxyserver.jks 
+2017/07/09 13:36:48 INFO  - jmeter.protocol.http.proxy.ProxyControl: Created keystore in C:\Performance repo\apache-jmeter-3.1\bin\proxyserver.jks 
+2017/07/09 13:36:48 INFO  - jmeter.protocol.http.proxy.ProxyControl: Creating entry http://www.gorodknig.com in C:\Performance repo\apache-jmeter-3.1\bin\proxyserver.jks 
+2017/07/09 13:36:50 INFO  - jmeter.protocol.http.proxy.Daemon: Creating Daemon Socket on port: 9999 
+2017/07/09 13:36:50 INFO  - jmeter.protocol.http.proxy.Daemon: Test Script Recorder up and running! 
+2017/07/09 13:36:50 INFO  - jmeter.protocol.http.proxy.Proxy: Proxy will remove the headers: If-Modified-Since,If-None-Match,Host 
+2017/07/09 13:36:50 INFO  - jmeter.protocol.http.sampler.HTTPHCAbstractImpl: Local host = DESKTOP-BG077B6 
+2017/07/09 13:36:50 INFO  - jmeter.protocol.http.sampler.HTTPHC4Impl: HTTP request retry count = 0 
+2017/07/09 13:36:50 INFO  - jmeter.samplers.SampleEvent: List of sample_variables: [] 
+2017/07/09 13:37:56 INFO  - jmeter.protocol.http.proxy.Daemon: HTTP(S) Test Script Recorder stopped 
